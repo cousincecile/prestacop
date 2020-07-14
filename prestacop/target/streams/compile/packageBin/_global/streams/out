@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/littlesoap/Documents/Cours/spark/prestacop/target/scala-2.12/kafkaexample_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/littlesoap/Documents/Cours/spark/prestacop/target/scala-2.12/classes/Producer$Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/littlesoap/Documents/Cours/spark/prestacop/target/scala-2.12/classes/Producer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/littlesoap/Documents/Cours/spark/prestacop/target/scala-2.12/classes/Producer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$Message$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/littlesoap/Documents/Cours/spark/prestacop/target/scala-2.12/classes/Producer$Message$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SPARKStreaming.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/littlesoap/Documents/Cours/spark/prestacop/target/scala-2.12/classes/SPARKStreaming.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/littlesoap/Documents/Cours/spark/prestacop/target/scala-2.12/classes/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/littlesoap/Documents/Cours/spark/prestacop/target/scala-2.12/classes/Producer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SPARKStreaming$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/littlesoap/Documents/Cours/spark/prestacop/target/scala-2.12/classes/SPARKStreaming$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
